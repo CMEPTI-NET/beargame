@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "770cab71f01f1577",
+    "type": "split",
+    "children": [
+      {
+        "id": "8581526ea734f57d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c924eca07bac45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProjectSOTA/Не медведи/Виды удовольствия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2221a8a35f67925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProjectSOTA/!main/Главная.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffbe9fe00377c0ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0cf7506ad3e8c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49f2820c9e7c16e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76110cf9941ae940",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebb41ce6e195dd45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9825a7e20e5a82bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d969ff490aaa889",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f923db3b7e082628",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ProjectSOTA/!main/Главная.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08ca2116a2b4d50f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ProjectSOTA/!main/Главная.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fd2c4c3b0855f2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ff3be5eab5942aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ProjectSOTA/!main/Главная.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f2221a8a35f67925",
+  "lastOpenFiles": [
+    "ProjectSOTA/Не медведи/Виды удовольствия.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты.md",
+    "ProjectSOTA/!main/Целевая аудитория.md",
+    "ProjectSOTA/!main/Главная.md"
+  ]
+}
