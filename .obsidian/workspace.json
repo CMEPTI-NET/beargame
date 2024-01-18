@@ -11,20 +11,20 @@
             "id": "9c924eca07bac45a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - старт.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "a50495f465bfbdde",
+            "id": "0a19f9d42d9f1963",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - старт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - старт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - старт.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,9 +153,19 @@
   "active": "9c924eca07bac45a",
   "lastOpenFiles": [
     "ProjectSOTA/Не медведи/Виды удовольствия.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/Немного аккуратности не повредит.md",
-    "web-сайт-и-web-страница.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/!Шаблон.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности не повредит.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
+    "ProjectSOTA/Геймплей/Киберпчела/Движение.md",
+    "ProjectSOTA/Геймплей/Фичи",
+    "ProjectSOTA/Геймплей/Программирование/Объекты",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь",
     "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - старт.md",
+    "web-сайт-и-web-страница.md",
     "ProjectSOTA/Геймплей/Киберпчела/Шершень.md",
     "ProjectSOTA/!main/Главная.md",
     "ProjectSOTA/Сюжет/!main/Вступление.md",
@@ -170,19 +176,12 @@
     "ProjectSOTA/Сюжет/Диалоги/Диалог. 2 уровень - подсказка.md",
     "ProjectSOTA/!main/Навигация.canvas",
     "ProjectSOTA/!main/Целевая аудитория.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - старт.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/Прыжок веры.md",
     "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - подсказка.md",
     "ProjectSOTA/Сюжет/Диалоги/Диалог. 2 уровень - старт.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/Это база.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/!Шаблон.md",
     "ProjectSOTA/Геймплей/Программирование/Объекты.md",
     "ProjectSOTA/Сюжет/Диалоги/первый диалог с СОТОЙ.md",
     "ProjectSOTA/Сюжет/!main/Схема сюжета.md",
     "ProjectSOTA/Геймплей/Киберпчела/Порядок ходов.md",
-    "ProjectSOTA/Геймплей/Киберпчела/Киберпчела.md",
-    "Без названия.canvas",
-    "ProjectSOTA/Сюжет/персонажи/Доброслав Гоголь Иванович.md",
-    "ProjectSOTA/Сюжет/персонажи/Арсений Потапов.md"
+    "Без названия.canvas"
   ]
 }
