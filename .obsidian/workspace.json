@@ -11,8 +11,12 @@
             "id": "9c924eca07bac45a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - подсказка.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - подсказка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - подсказка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - подсказка.md"
+              }
             }
           }
         ]
@@ -152,36 +160,36 @@
   },
   "active": "9c924eca07bac45a",
   "lastOpenFiles": [
-    "ProjectSOTA/Не медведи/Виды удовольствия.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/первый диалог с СОТОЙ.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/!Шаблон.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности не повредит.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - Перед уровнем при выборе уровня в IDE.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 2 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 1 уровень - старт.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 1 уровень - подсказка.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
+    "ProjectSOTA/!main/Главная.md",
+    "ProjectSOTA/!main/Целевая аудитория.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности не повредит.md",
+    "ProjectSOTA/Сюжет/персонажи/Обучающие диалоги.md",
+    "ProjectSOTA/Сюжет/Обучение.md",
+    "ProjectSOTA/Сюжет/!main/Сценарий оглавление.md",
+    "ProjectSOTA/Сюжет/!main/Схема сюжета.md",
+    "ProjectSOTA/Сюжет/!main/Персонажи.md",
+    "ProjectSOTA/Сюжет/!main/Вступление.md",
+    "ProjectSOTA/!main/Навигация.canvas",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/!Шаблон уровня.md",
+    "ProjectSOTA/Не медведи/Виды удовольствия.md",
     "ProjectSOTA/Геймплей/Киберпчела/Движение.md",
     "ProjectSOTA/Геймплей/Фичи",
     "ProjectSOTA/Геймплей/Программирование/Объекты",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь",
-    "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - старт.md",
-    "web-сайт-и-web-страница.md",
-    "ProjectSOTA/Геймплей/Киберпчела/Шершень.md",
-    "ProjectSOTA/!main/Главная.md",
-    "ProjectSOTA/Сюжет/!main/Вступление.md",
-    "ProjectSOTA/Сюжет/!main/Персонажи.md",
-    "ProjectSOTA/Сюжет/!main/Сценарий оглавление.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 1 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 1 уровень - старт.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 2 уровень - подсказка.md",
-    "ProjectSOTA/!main/Навигация.canvas",
-    "ProjectSOTA/!main/Целевая аудитория.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 2 уровень - старт.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты.md",
-    "ProjectSOTA/Сюжет/Диалоги/первый диалог с СОТОЙ.md",
-    "ProjectSOTA/Сюжет/!main/Схема сюжета.md",
-    "ProjectSOTA/Геймплей/Киберпчела/Порядок ходов.md",
     "Без названия.canvas"
   ]
 }
