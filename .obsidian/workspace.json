@@ -6,6 +6,7 @@
       {
         "id": "8581526ea734f57d",
         "type": "tabs",
+        "dimension": 43.09392265193371,
         "children": [
           {
             "id": "9c924eca07bac45a",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - подсказка.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 4.2 уровень - подсказка.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +26,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности не повредит.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "18b2346f402eac24",
+        "type": "tabs",
+        "dimension": 56.9060773480663,
+        "children": [
+          {
+            "id": "6439610d6b68fee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/5 Начинаем программировать (кнопка и дверь).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +58,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 5 уровень - старт.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 4.3 уровень - конец.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 5 уровень - старт.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 5 уровень - старт.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Диалог. 5 уровень - старт.md"
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md"
               }
             }
           }
@@ -171,36 +192,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "945c92105b9db9d8",
+  "active": "0a19f9d42d9f1963",
   "lastOpenFiles": [
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/5 Начинаем программировать (кнопка и дверь).md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 5 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 5 уровень - старт.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы/Шипы.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/!шаблон объекта.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты.md",
+    "ProjectSOTA/!main/Главная.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/!Шаблон уровня.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/6 Осторожно, колючее.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 4.3 уровень - конец.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/5 Начинаем программировать (кнопка и дверь).md",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Кнопка/Кнопка.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/!шаблон.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Кнопка",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
-    "ProjectSOTA/Сюжет/персонажи/СОТА.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности не повредит.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
-    "ProjectSOTA/src/Pasted image 20240120220530.png",
-    "ProjectSOTA/Сюжет/!main/Персонажи.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности не повредит.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 5.2 уровень - подсказка.md",
     "ProjectSOTA/Сюжет/Диалоги/первый диалог с СОТОЙ.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 2 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 1 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - Перед уровнем при выборе уровня в IDE.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 4 уровень - старт.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 1 уровень - старт.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3 уровень - старт.md",
-    "ProjectSOTA/Не медведи/Виды удовольствия.md",
-    "ProjectSOTA/Сюжет/Диалоги/Диалог. 2 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Рекламный диалог.md",
+    "ProjectSOTA/src/Pasted image 20231220152541.png",
+    "ProjectSOTA/src/Pasted image 20231219210656.png",
+    "ProjectSOTA/Геймплей/Киберпчела/Движение.md",
+    "ProjectSOTA/Сюжет/Обучение.md",
+    "ProjectSOTA/src/Pasted image 20240128233118.png",
+    "ProjectSOTA/src/Pasted image 20240128233259.png",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 2.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 1.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 1.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 2.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Диалог. 3.2 уровень - подсказка.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Кнопка",
+    "ProjectSOTA/src/Pasted image 20240120220530.png",
     "ProjectSOTA/!main/Навигация.canvas",
     "ProjectSOTA/Геймплей/Фичи",
     "ProjectSOTA/Геймплей/Программирование/Объекты",
