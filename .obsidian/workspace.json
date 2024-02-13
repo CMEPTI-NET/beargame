@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c4b4df1ee614e919",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -67,12 +59,16 @@
             "id": "820dda14dbecc747",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 388.5
   },
   "right": {
     "id": "9825a7e20e5a82bf",
@@ -138,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md"
+                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md"
               }
             }
           }
@@ -199,14 +195,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a19f9d42d9f1963",
+  "active": "820dda14dbecc747",
   "lastOpenFiles": [
-    "ProjectSOTA/src/Pasted image 20240213170144.png",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/6 Осторожно, колючее.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 6.1 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - подсказка.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/5 Начинаем программировать (кнопка и дверь).md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности не повредит.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
+    "Гордость от достижения цели.md",
+    "ProjectSOTA/src/Pasted image 20240213170144.png",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы/Шипы.md",
     "ProjectSOTA/Геймплей/Киберпчела/Порядок ходов.md",
     "ProjectSOTA/Геймплей/Киберпчела/Киберпчела.Движение.md",
@@ -216,15 +220,8 @@
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 9.1 уровень - старт.md",
     "ProjectSOTA/!main/Главная.md",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/5 Начинаем программировать (кнопка и дверь).md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности не повредит.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 6.1 уровень - начало.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 6.1 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 3.2 уровень - подсказка.md",
     "ProjectSOTA/Геймплей/Гиммики",
