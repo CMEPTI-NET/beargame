@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 ещё прог+ пчела.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,13 +58,21 @@
               "type": "markdown",
               "state": {
                 "file": "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "820dda14dbecc747",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md"
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md"
               }
             }
           }
@@ -191,15 +199,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd310169714ac2ba",
+  "active": "0a19f9d42d9f1963",
   "lastOpenFiles": [
-    "ProjectSOTA/!main/Главная.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 ещё прог+ пчела.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/6 Осторожно, колючее.md",
+    "ProjectSOTA/src/Pasted image 20240213170144.png",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/6 Осторожно, колючее.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы/Шипы.md",
+    "ProjectSOTA/Геймплей/Киберпчела/Порядок ходов.md",
+    "ProjectSOTA/Геймплей/Киберпчела/Киберпчела.Движение.md",
+    "ProjectSOTA/Геймплей/Киберпчела/Киберпчела.md",
+    "ProjectSOTA/!main/Целевая аудитория.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 9.1 уровень - старт.md",
+    "ProjectSOTA/!main/Главная.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/5 Начинаем программировать (кнопка и дверь).md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
@@ -208,18 +224,10 @@
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 6.1 уровень - начало.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 6.1 уровень - подсказка.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 8.1 уровень - старт.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 3.2 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.0 уровень - Перед уровнем при выборе уровня в IDE.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 2.1 уровень - старт.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.2 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.1 уровень - старт.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
-    "ProjectSOTA/Геймплей/Гиммики/Гиммики.md",
     "ProjectSOTA/Геймплей/Гиммики",
-    "ProjectSOTA/Геймплей/Гиммики/(гиммик что пока не описал).md",
     "ProjectSOTA/src/Pasted image 20240202225938.png",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Контроллер гравитации",
     "ProjectSOTA/ZZ Шаблоны",
