@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c924eca07bac45a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.2 уровень - подсказка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a19f9d42d9f1963",
+            "id": "fd310169714ac2ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,67 +20,16 @@
             }
           },
           {
-            "id": "4418e1a2a0b77faa",
+            "id": "d16d1a5f018d13d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd310169714ac2ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdcd00993ab71f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2422834c644395b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProjectSOTA/!main/Главная.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8a1dcfb4dd7cc8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProjectSOTA/Диалог. Школа 1.md",
-                "mode": "source",
-                "source": false
+                "file": "ProjectSOTA/src/Excalidraw/лвл10.md"
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Диалог. Школа 1.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Диалог. Школа 1.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Диалог. Школа 1.md"
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md"
               }
             }
           }
@@ -216,45 +153,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8a1dcfb4dd7cc8b",
+  "active": "fd310169714ac2ba",
   "lastOpenFiles": [
-    "ProjectSOTA/src/Pasted image 20240213170144.png",
+    "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
+    "ProjectSOTA/src/Excalidraw/лвл10.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
+    "ProjectSOTA/src/Excalidraw",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
+    "ProjectSOTA/!main/Главная.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
+    "f8OinVSDQG4.jpg",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Кнопка/Кнопка.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности.md",
+    "ProjectSOTA/!main/Навигация.canvas",
+    "ProjectSOTA/!main/Целевая аудитория.md",
+    "ProjectSOTA/src/Pasted image 20240202225938.png",
+    "ProjectSOTA/src/Pasted image 20240128233259.png",
+    "ProjectSOTA/src/Pasted image 20240120220530.png",
     "ProjectSOTA/Диалог. Школа 1.md",
+    "ProjectSOTA/src/Pasted image 20240213170144.png",
     "ProjectSOTA/Диалог. Школа 1.2.md",
     "ProjectSOTA/Диалог. Школа 1.2.2.md",
     "ProjectSOTA/Диалог. Школа 1.2.1.md",
     "ProjectSOTA/Диалог. Школа 1.1.md",
-    "ProjectSOTA/src/Pasted image 20240202225938.png",
-    "ProjectSOTA/src/Pasted image 20240128233259.png",
-    "ProjectSOTA/src/Pasted image 20240120220530.png",
     "ProjectSOTA/src/Шершень/Pasted image 20231219210656.png",
     "ProjectSOTA/src/Шершень/Pasted image 20231220152541.png",
     "ProjectSOTA/src/Шершень/Pasted image 20231220201720.png",
     "ProjectSOTA/src/Шершень/Pasted image 20231220220802.png",
     "ProjectSOTA/src/Шершень/Pasted image 20231220221619.png",
-    "ProjectSOTA/!main/Главная.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 8.1 уровень - подсказка.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/6 Осторожно, колючее.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/5 Начинаем программировать (кнопка и дверь).md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.1 уровень - старт.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.0 уровень - Перед уровнем при выборе уровня в IDE.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 9.1 уровень - старт.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 8.1 уровень - старт.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 5.2 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 5.1 уровень - старт.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 2.2 уровень - подсказка.md",
     "ProjectSOTA/src/Шершень",
     "ProjectSOTA/Геймплей/Гиммики",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Контроллер гравитации",
@@ -262,11 +204,8 @@
     "ProjectSOTA/Сюжет/Диалоги/На раб столе",
     "ProjectSOTA/Сюжет/Диалоги/Уровни",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы",
-    "ProjectSOTA/src/Pasted image 20240128233118.png",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Кнопка",
-    "ProjectSOTA/!main/Навигация.canvas",
     "ProjectSOTA/Геймплей/Фичи",
-    "ProjectSOTA/Геймплей/Программирование/Объекты",
     "Без названия.canvas"
   ]
 }
