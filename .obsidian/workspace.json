@@ -11,11 +11,9 @@
             "id": "fd310169714ac2ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
-                "mode": "source",
-                "source": false
+                "file": "ProjectSOTA/src/Excalidraw/лвл10.md"
               }
             }
           },
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
+                "file": "ProjectSOTA/src/Excalidraw/лвл10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
+                "file": "ProjectSOTA/src/Excalidraw/лвл10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md"
+                "file": "ProjectSOTA/src/Excalidraw/лвл10.md"
               }
             }
           }
@@ -159,9 +157,9 @@
   },
   "active": "fd310169714ac2ba",
   "lastOpenFiles": [
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/Уровни.md",
     "ProjectSOTA/src/Excalidraw/лвл10.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопки и двери.md",
     "ProjectSOTA/src/Excalidraw",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
     "ProjectSOTA/!main/Главная.md",
