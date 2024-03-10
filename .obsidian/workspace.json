@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Менюхи/IDE.md",
+                "file": "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Менюхи/IDE.md",
+                "file": "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Менюхи/IDE.md",
+                "file": "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Менюхи/IDE.md"
+                "file": "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md"
               }
             }
           }
@@ -181,13 +181,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "daa335283df375a3",
+  "active": "49f2820c9e7c16e0",
   "lastOpenFiles": [
+    "ProjectSOTA/Геймплей/Гиммики/Достижения/Список/Достижение.А-ты-упёртый.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Список/Достижение.Это-тебе-не-рогалик.md",
-    "ProjectSOTA/Геймплей/Гиммики/Достижения/Список/Достижение.А-ты-упёртый.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.Список.md",
-    "Достижение.png",
+    "ProjectSOTA/Геймплей/Менюхи/IDE.md",
+    "ProjectSOTA/src/Меню/Достижение.png",
     "Untitled.md",
     "ProjectSOTA/!main/Главная.md",
     "ProjectSOTA/!main/Целевая аудитория.md",
@@ -195,7 +196,6 @@
     "ProjectSOTA/src/Excalidraw/лвл10.md",
     "Excalidraw/Drawing 2024-02-26 20.15.39.excalidraw.md",
     "ProjectSOTA/src/Виз новелла/Диалог. Школа 1.md",
-    "ProjectSOTA/Геймплей/Менюхи/IDE.md",
     "ProjectSOTA/ZZ Шаблоны/!Шаблон достижения.md",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы/Шипы.md",
     "ProjectSOTA/Геймплей/Программирование/Объекты/Контроллер гравитации/Контроллер гравитации.md",
