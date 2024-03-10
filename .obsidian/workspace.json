@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md"
+                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md"
               }
             }
           }
@@ -181,10 +181,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "49f2820c9e7c16e0",
+  "active": "daa335283df375a3",
   "lastOpenFiles": [
-    "ProjectSOTA/Геймплей/Гиммики/Достижения/Список/Достижение.А-ты-упёртый.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.0 уровень - Перед уровнем при выборе уровня в IDE.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
+    "ProjectSOTA/Геймплей/Гиммики/Достижения/Список/Достижение.А-ты-упёртый.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Список/Достижение.Это-тебе-не-рогалик.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.Список.md",
     "ProjectSOTA/Геймплей/Менюхи/IDE.md",
@@ -216,9 +218,7 @@
     "Pasted image 20240309190203.png",
     "ProjectSOTA/ZZ Шаблоны/!Шаблон уровня.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Список",
-    "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.Триггеры.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
     "ProjectSOTA/src/Уровни/Pasted image 20240120220530.png",
     "ProjectSOTA/src/Виз новелла",
     "ProjectSOTA/src/Уровни/Pasted image 20240226203353.png",
