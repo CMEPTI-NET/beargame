@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
+                "file": "Диалог. 10.1 уровень - подсказка.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
+                "file": "Диалог. 10.1 уровень - подсказка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
+                "file": "Диалог. 10.1 уровень - подсказка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md"
+                "file": "Диалог. 10.1 уровень - подсказка.md"
               }
             }
           }
@@ -183,49 +183,49 @@
   },
   "active": "daa335283df375a3",
   "lastOpenFiles": [
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.0 уровень - Перед уровнем при выборе уровня в IDE.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
-    "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
-    "ProjectSOTA/Геймплей/Гиммики/Достижения/Список/Достижение.А-ты-упёртый.md",
-    "ProjectSOTA/Геймплей/Гиммики/Достижения/Список/Достижение.Это-тебе-не-рогалик.md",
-    "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.Список.md",
-    "ProjectSOTA/Геймплей/Менюхи/IDE.md",
-    "ProjectSOTA/src/Меню/Достижение.png",
-    "Untitled.md",
-    "ProjectSOTA/!main/Главная.md",
-    "ProjectSOTA/!main/Целевая аудитория.md",
-    "ProjectSOTA/!main/Навигация.canvas",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопка и двери.md",
+    "Диалог. 10.1 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 10.1 уровень - старт.md",
+    "ProjectSOTA/src/Уровни/Pasted image 20240310193110.png",
+    "ProjectSOTA/src/Уровни/Pasted image 20240310201313.png",
     "ProjectSOTA/src/Excalidraw/лвл10.md",
-    "Excalidraw/Drawing 2024-02-26 20.15.39.excalidraw.md",
-    "ProjectSOTA/src/Виз новелла/Диалог. Школа 1.md",
-    "ProjectSOTA/ZZ Шаблоны/!Шаблон достижения.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы/Шипы.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Контроллер гравитации/Контроллер гравитации.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 3.1 уровень - старт.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - подсказка.md",
-    "ProjectSOTA/ZZ Шаблоны/!Шаблон объекта.md",
-    "ProjectSOTA/Сюжет/персонажи/Доброслав Гоголь Иванович.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.2 уровень - подсказка.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
+    "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 9.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 8.1 уровень - подсказка.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
+    "ProjectSOTA/ZZ Шаблоны/!Шаблон уровня.md",
+    "ProjectSOTA/Геймплей/Гиммики/Гиммики.md",
+    "ProjectSOTA/Геймплей/Гиммики/(гиммик что пока не описал).md",
+    "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.Список.md",
+    "ProjectSOTA/Сюжет/Диалоги/Рекламный диалог.md",
+    "ProjectSOTA/ZZ Шаблоны/!Шаблон достижения.md",
+    "ProjectSOTA/ZZ Шаблоны/!Шаблон объекта.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности.md",
+    "ProjectSOTA/Сюжет/персонажи/Серёжа Пчелкин.md",
+    "ProjectSOTA/Сюжет/Диалоги/Обучение.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы/Шипы.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
+    "ProjectSOTA/src/Меню/Достижение.png",
+    "ProjectSOTA/!main/Навигация.canvas",
     "ProjectSOTA/src/Меню",
     "Pasted image 20240309191419.png",
     "ProjectSOTA/Геймплей/Менюхи",
     "ProjectSOTA/src/Меню/New Mockup 6.png",
     "ProjectSOTA/src/Меню/New Mockup 5.png",
     "Pasted image 20240309190203.png",
-    "ProjectSOTA/ZZ Шаблоны/!Шаблон уровня.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Список",
     "ProjectSOTA/Геймплей/Гиммики/Достижения",
     "ProjectSOTA/src/Уровни/Pasted image 20240120220530.png",
-    "ProjectSOTA/src/Виз новелла",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла",
     "ProjectSOTA/src/Уровни/Pasted image 20240226203353.png",
     "ProjectSOTA/src/Уровни",
     "ProjectSOTA/src/Уровни/Pasted image 20240213170144.png",
-    "ProjectSOTA/src/Уровни/Pasted image 20240202225938.png",
-    "ProjectSOTA/src/Уровни/Pasted image 20240128233259.png",
     "Excalidraw",
     "ProjectSOTA/src/Excalidraw",
     "ProjectSOTA/src/Шершень",
