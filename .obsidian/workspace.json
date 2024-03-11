@@ -6,7 +6,33 @@
       {
         "id": "8581526ea734f57d",
         "type": "tabs",
+        "dimension": 72.24462365591397,
         "children": [
+          {
+            "id": "e13688e3d0eabc0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "17b14cfde3ffd780"
+          },
+          {
+            "id": "ade4668aa2dae74a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "fd310169714ac2ba",
             "type": "leaf",
@@ -32,27 +58,126 @@
             }
           },
           {
-            "id": "a1d1139a931dabb8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "daa335283df375a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Диалог. 10.1 уровень - подсказка.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe9b0ac1ff35f7d4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "215ff4f2ce0b9a27",
+        "type": "split",
+        "dimension": 27.75537634408602,
+        "children": [
+          {
+            "id": "c8c70491622146ad",
+            "type": "tabs",
+            "dimension": 42.11538461538461,
+            "children": [
+              {
+                "id": "609d953c85fc462d",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -1.6,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5087618855792592,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "17b14cfde3ffd780"
+              }
+            ]
+          },
+          {
+            "id": "729f2dc79b3cbb51",
+            "type": "split",
+            "dimension": 57.88461538461539,
+            "children": [
+              {
+                "id": "c2afd5e474fcdcf9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "95f7173ff88ac827",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md"
+                      }
+                    },
+                    "group": "17b14cfde3ffd780"
+                  }
+                ]
+              },
+              {
+                "id": "b9d9c745be9a3a77",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0db3722e14c42dcb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    },
+                    "group": "17b14cfde3ffd780"
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
           }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -81,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диалог. 10.1 уровень - подсказка.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диалог. 10.1 уровень - подсказка.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диалог. 10.1 уровень - подсказка.md"
+                "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md"
               }
             }
           }
@@ -181,36 +306,36 @@
       "random-note:Open random note": false
     }
   },
-  "active": "daa335283df375a3",
+  "active": "e13688e3d0eabc0e",
   "lastOpenFiles": [
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопка и двери.md",
-    "Диалог. 10.1 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.2.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.3.md",
+    "ProjectSOTA/Сюжет/!main/Персонажи.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2-правильно.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.md",
+    "ProjectSOTA/!main/Главная.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.md",
+    "ProjectSOTA/Геймплей/Менюхи/IDE.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
+    "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.1.md",
+    "ProjectSOTA/Сюжет/персонажи/СОТА.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/5 Начинаем программировать (кнопка и дверь).md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 9.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 8.1 уровень - подсказка.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 10.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 10.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.1 уровень - старт.md",
     "ProjectSOTA/src/Уровни/Pasted image 20240310193110.png",
     "ProjectSOTA/src/Уровни/Pasted image 20240310201313.png",
-    "ProjectSOTA/src/Excalidraw/лвл10.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
-    "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 9.1 уровень - старт.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 8.1 уровень - подсказка.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
-    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
-    "ProjectSOTA/ZZ Шаблоны/!Шаблон уровня.md",
-    "ProjectSOTA/Геймплей/Гиммики/Гиммики.md",
-    "ProjectSOTA/Геймплей/Гиммики/(гиммик что пока не описал).md",
-    "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.Список.md",
-    "ProjectSOTA/Сюжет/Диалоги/Рекламный диалог.md",
-    "ProjectSOTA/ZZ Шаблоны/!Шаблон достижения.md",
-    "ProjectSOTA/ZZ Шаблоны/!Шаблон объекта.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности.md",
-    "ProjectSOTA/Сюжет/персонажи/Серёжа Пчелкин.md",
-    "ProjectSOTA/Сюжет/Диалоги/Обучение.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы/Шипы.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - начало.md",
     "ProjectSOTA/src/Меню/Достижение.png",
     "ProjectSOTA/!main/Навигация.canvas",
     "ProjectSOTA/src/Меню",
