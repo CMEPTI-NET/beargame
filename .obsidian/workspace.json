@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+                "file": "Диалог. 9.1 уровень - подсказка.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+                    "file": "Диалог. 9.1 уровень - подсказка.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -142,7 +142,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md"
+                        "file": "Диалог. 9.1 уровень - подсказка.md"
                       }
                     },
                     "group": "17b14cfde3ffd780"
@@ -159,7 +159,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+                        "file": "Диалог. 9.1 уровень - подсказка.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+                "file": "Диалог. 9.1 уровень - подсказка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+                "file": "Диалог. 9.1 уровень - подсказка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md"
+                "file": "Диалог. 9.1 уровень - подсказка.md"
               }
             }
           }
@@ -308,12 +308,17 @@
   },
   "active": "e13688e3d0eabc0e",
   "lastOpenFiles": [
-    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.2.md",
-    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.3.md",
-    "ProjectSOTA/Сюжет/!main/Персонажи.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
+    "Диалог. 9.1 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 9.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 8.1 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 10.1 уровень - старт.md",
     "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2-правильно.md",
     "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.1.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.2.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.3.md",
     "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2.md",
+    "ProjectSOTA/Сюжет/!main/Персонажи.md",
     "ProjectSOTA/!main/Главная.md",
     "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.md",
     "ProjectSOTA/Геймплей/Менюхи/IDE.md",
@@ -326,14 +331,9 @@
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 9.1 уровень - старт.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.2 уровень - подсказка.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.2 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 8.1 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 10.1 уровень - старт.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 10.2 уровень - подсказка.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.1 уровень - старт.md",
     "ProjectSOTA/src/Уровни/Pasted image 20240310193110.png",
     "ProjectSOTA/src/Уровни/Pasted image 20240310201313.png",
     "ProjectSOTA/src/Меню/Достижение.png",
