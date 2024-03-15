@@ -6,7 +6,7 @@
       {
         "id": "8581526ea734f57d",
         "type": "tabs",
-        "dimension": 56.54918463966332,
+        "dimension": 63.20109439124487,
         "children": [
           {
             "id": "e13688e3d0eabc0e",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2.1 уровень - злой запуск.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.2 уровень - подсказка.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,12 +41,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "215ff4f2ce0b9a27",
         "type": "split",
-        "dimension": 43.45081536033668,
+        "dimension": 36.79890560875513,
         "children": [
           {
             "id": "c8c70491622146ad",
@@ -59,7 +60,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2.1 уровень - злой запуск.md",
+                    "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.2 уровень - подсказка.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -82,7 +83,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.713275462622442,
                       "close": true
                     }
                   }
@@ -106,7 +107,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2.1 уровень - злой запуск.md"
+                        "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.2 уровень - подсказка.md"
                       }
                     },
                     "group": "17b14cfde3ffd780"
@@ -123,7 +124,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2.1 уровень - злой запуск.md",
+                        "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.2 уровень - подсказка.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -207,7 +208,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2.1 уровень - злой запуск.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2.1 уровень - злой запуск.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,9 +245,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2.1 уровень - злой запуск.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -270,43 +267,42 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e13688e3d0eabc0e",
+  "active": "4dd562efb3c27059",
   "lastOpenFiles": [
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.3 уровень - согласие.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.2 уровень - подсказка.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
+    "ProjectSOTA/src/Гиммики/Pasted image 20240312050644.png",
+    "ProjectSOTA/src/Гиммики/Pasted image 20240312090430.png",
+    "ProjectSOTA/src/Гиммики/Pasted image 20240312091416.png",
+    "ProjectSOTA/src/Меню/New Mockup 5.png",
+    "ProjectSOTA/src/Меню/Достижение.png",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.1.1 уровень - грустная отмена.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.1.2 уровень - грустный запуск.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.1.3 уровень - грустный повтор отмены.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2 уровень - запрет доступа.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2.1 уровень - злой запуск.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2.2 уровень - снова отмена.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.2 уровень - запрет доступа.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.1.3 уровень - грустный повтор отмены.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.1.2 уровень - грустный запуск.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.1.1 уровень - грустная отмена.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.3 уровень - согласие.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3.1 уровень - злая и растерянная СОТА.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3 уровень - конец.md",
+    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.md",
     "ProjectSOTA/Геймплей/!main/Уровни.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.2 уровень - подсказка.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.1 уровень - старт.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/6 Осторожно, колючее.md",
     "ProjectSOTA/Геймплей/Гиммики/Геймплейные/Скрытое принятие и выключение игры.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.md",
     "ProjectSOTA/Геймплей/Гиммики/Достижения/Достижения.Список.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 10.2 уровень - подсказка.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
     "ProjectSOTA/!main/Главная.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопка и двери.md",
     "ProjectSOTA/!main/Целевая аудитория.md",
     "ProjectSOTA/Не медведи/Виды удовольствия.md",
-    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.md",
     "ProjectSOTA/!main/Навигация.canvas",
     "ProjectSOTA/Геймплей/Киберпчела/Порядок ходов.md",
     "ProjectSOTA/Геймплей/!main/Киберпчела.md",
-    "ProjectSOTA/Геймплей/!main/Гиммики.md",
     "ProjectSOTA/Геймплей/Гиммики/Геймплейные",
     "ProjectSOTA/Геймплей/!main",
-    "ProjectSOTA/src/Гиммики/Pasted image 20240312091416.png",
-    "ProjectSOTA/src/Гиммики/Pasted image 20240312090430.png",
     "ProjectSOTA/src/Гиммики",
-    "ProjectSOTA/src/Гиммики/Pasted image 20240312050644.png",
-    "ProjectSOTA/src/Меню/New Mockup 5.png",
-    "ProjectSOTA/src/Меню/Достижение.png",
     "ProjectSOTA/src/Меню/New Mockup 6.png",
     "ProjectSOTA/src/Уровни/Pasted image 20240310193110.png",
     "ProjectSOTA/src/Уровни/Pasted image 20240310201313.png",

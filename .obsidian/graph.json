@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:ProjectSOTA/Сюжет  ",
+      "query": "path:ProjectSOTA/Сюжет/персонажи path:",
       "color": {
         "a": 1,
         "rgb": 14734418
@@ -40,6 +40,34 @@
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:ProjectSOTA/Сюжет/персонажи  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:ProjectSOTA/Сюжет/Диалоги  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
@@ -53,6 +81,6 @@
   "repelStrength": 6.97916666666667,
   "linkStrength": 1,
   "linkDistance": 103,
-  "scale": 0.059326171875001346,
-  "close": true
+  "scale": 0.4505081176757925,
+  "close": false
 }
