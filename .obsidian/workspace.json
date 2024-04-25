@@ -6,7 +6,7 @@
       {
         "id": "8581526ea734f57d",
         "type": "tabs",
-        "dimension": 55.46875,
+        "dimension": 74.21875,
         "children": [
           {
             "id": "e13688e3d0eabc0e",
@@ -14,12 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md",
-                "mode": "source",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
+                "mode": "preview",
                 "source": false
               }
             },
             "group": "17b14cfde3ffd780"
+          },
+          {
+            "id": "ba54aef7b9df2d44",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           },
           {
             "id": "fe9b0ac1ff35f7d4",
@@ -71,16 +81,31 @@
             "id": "f9d8fd5aad4ac93f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cc5326656e40a21",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ProjectSOTA/src/Уровни/Pasted image 20240120220530.png"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e1d3dcec076b89c1",
         "type": "split",
-        "dimension": 44.53125,
+        "dimension": 25.78125,
         "children": [
           {
             "id": "b2dadf457bf4679e",
@@ -92,7 +117,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md",
+                    "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -138,7 +163,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md"
+                        "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md"
                       }
                     },
                     "group": "17b14cfde3ffd780"
@@ -155,7 +180,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md",
+                        "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -239,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md",
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md"
+                "file": "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md"
               }
             }
           }
@@ -302,37 +327,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e13688e3d0eabc0e",
+  "active": "ba54aef7b9df2d44",
   "lastOpenFiles": [
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Шипы/Шипы.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Дверь/Дверь.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Кнопка/Кнопка.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Контроллер гравитации/Контроллер гравитации.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 2.1 уровень - старт.md",
-    "Контроллер гравитации.md",
-    "Контроллер тяготения.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
-    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.4 - конец.md",
-    "ProjectSOTA/Сюжет/Диалоги/Виз новелла/Диалог. Школа 1.2-неправильно.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности.md",
-    "ProjectSOTA/Геймплей/Программирование/Объекты/Контроллер гравитации/Контроллер тяготения.md",
-    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/12 Бочонок с мёдом.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/10 Кнопка и двери.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 11.3 уровень - конец.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/9 Учимся летать.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/8 Переменный ток.md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/7 Пожуж-ж-жим.md",
-    "ProjectSOTA/Сюжет/!main/Сценарий оглавление.md",
-    "ProjectSOTA/!main/Главная.md",
-    "ProjectSOTA/Геймплей/!main/Киберпчела.md",
-    "ProjectSOTA/Сюжет/Диалоги/Обучающие диалоги.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.0 уровень - Перед уровнем при выборе уровня в IDE.md",
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 3.2 уровень - подсказка.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/6 Осторожно, колючее.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/5 Начинаем программировать (кнопка и дверь).md",
     "ProjectSOTA/Геймплей/Лвл дизайн/уровни/4 Начинаем программировать (дверь).md",
-    "ProjectSOTA/src/Уровни/Pasted image 20240202225938.png",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/1 Это база.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/3 Прыжок веры.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/2 Немного аккуратности.md",
     "ProjectSOTA/src/Уровни/Pasted image 20240128233259.png",
     "ProjectSOTA/src/Уровни/Pasted image 20240120220530.png",
+    "ProjectSOTA/Геймплей/!main/Уровни.md",
+    "ProjectSOTA/Геймплей/Лвл дизайн/уровни/11 Подведём итоги.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 2.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 2.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 3.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 3.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.0 уровень - Перед уровнем при выборе уровня в IDE.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 4.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 5.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 5.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 6.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 6.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.1 уровень - старт.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 7.2 уровень - подсказка.md",
+    "ProjectSOTA/Геймплей/Программирование/Объекты/Бочкомат",
+    "ProjectSOTA/src/Уровни/Pasted image 20240202225938.png",
     "ProjectSOTA/src/Гиммики/Pasted image 20240312050644.png",
     "ProjectSOTA/src/Гиммики/Pasted image 20240312090430.png",
     "ProjectSOTA/src/Гиммики/Pasted image 20240312091416.png",
@@ -350,7 +375,6 @@
     "ProjectSOTA/Геймплей/Гиммики/Достижения",
     "ProjectSOTA/Сюжет/Диалоги/Виз новелла",
     "ProjectSOTA/src/Уровни",
-    "Excalidraw",
     "Без названия.canvas"
   ]
 }
