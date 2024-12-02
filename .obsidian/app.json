@@ -1,4 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "ProjectSOTA/src"
+  "attachmentFolderPath": "ProjectSOTA/src",
+  "newFileLocation": "current"
 }
