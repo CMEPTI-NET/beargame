@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.2 уровень - подсказка.md",
+                "file": "ProjectSOTA/Сюжет/Диалоги/На раб столе/Диалог знакомство 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Диалог. 1.2 уровень - подсказка"
+              "title": "Диалог знакомство 2.0"
             }
           },
           {
@@ -79,7 +79,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ProjectSOTA/Геймплей/Киберпчела/Шершень.md",
+                    "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.2 уровень - подсказка.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -107,7 +107,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Граф Шершень"
+                  "title": "Граф Диалог. 1.2 уровень - подсказка"
                 },
                 "group": "17b14cfde3ffd780"
               }
@@ -127,10 +127,10 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "ProjectSOTA/Геймплей/Киберпчела/Шершень.md"
+                        "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.2 уровень - подсказка.md"
                       },
                       "icon": "lucide-list",
-                      "title": "Структура Шершень"
+                      "title": "Структура Диалог. 1.2 уровень - подсказка"
                     },
                     "group": "17b14cfde3ffd780"
                   }
@@ -146,7 +146,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "ProjectSOTA/Геймплей/Киберпчела/Шершень.md",
+                        "file": "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.2 уровень - подсказка.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-coming-in",
-                      "title": "Обратные ссылки для Шершень"
+                      "title": "Обратные ссылки для Диалог. 1.2 уровень - подсказка"
                     },
                     "group": "17b14cfde3ffd780"
                   }
@@ -311,8 +311,8 @@
   },
   "active": "0114715cc3262f9a",
   "lastOpenFiles": [
-    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.1 уровень - старт.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.2 уровень - подсказка.md",
+    "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 1.1 уровень - старт.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 3.2 уровень - подсказка.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 3.1 уровень - старт.md",
     "ProjectSOTA/Сюжет/Диалоги/Уровни/Диалог. 2.2 уровень - подсказка.md",
